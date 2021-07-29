@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_355" data-name="Group 355" transform="translate(-23 -98)">
+    <path id="Path_73" data-name="Path 73" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(23 98)" fill="#ffcc2a"/>
+    <path id="Icon_open-clock" data-name="Icon open-clock" d="M11,0A11,11,0,1,0,22,11,11.032,11.032,0,0,0,11,0Zm0,2.75A8.25,8.25,0,1,1,2.75,11,8.239,8.239,0,0,1,11,2.75ZM9.625,5.5v6.1l.44.358,1.375,1.375.935,1.045,1.98-1.98-1.045-.935-.935-.935V5.555H9.625Z" transform="translate(37 112)" fill="#fff"/>
+  </g>
+</svg>

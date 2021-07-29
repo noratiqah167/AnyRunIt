@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Group_72" data-name="Group 72" transform="translate(0 0.165)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="17" cy="17" r="17" transform="translate(0 -0.165)" fill="#ced4de"/>
+    <path id="Icon_awesome-directions" data-name="Icon awesome-directions" d="M16.389,7.268,9.087.292a1.081,1.081,0,0,0-1.479,0L.306,7.268a.968.968,0,0,0,0,1.413l7.3,6.975a1.081,1.081,0,0,0,1.479,0l7.3-6.975a.968.968,0,0,0,0-1.413ZM13.1,7.659,10.35,10.08A.262.262,0,0,1,9.912,9.9V8.224H6.782v1.994a.255.255,0,0,1-.261.249H5.478a.255.255,0,0,1-.261-.249V7.725a1.021,1.021,0,0,1,1.043-1H9.912V5.055a.263.263,0,0,1,.438-.183L13.1,7.293a.242.242,0,0,1,0,.366Z" transform="translate(9 9)" fill="#fff"/>
+  </g>
+</svg>
